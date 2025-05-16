@@ -5,4 +5,5 @@ header{
 body{
     background-color: rgb(233, 110, 172);
     font-family:'Times New Roman', Times, serif;
+    justify-items: center;
 }
